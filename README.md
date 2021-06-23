@@ -18,7 +18,8 @@ Dado um valor decimal (com pelo menos uma casa), o menor número de notas e moed
 2. Moedas de R$ 0,05
 3. Moedas de R$ 0,10
 4. Moedas de R$ 0,25
-5. Moedas de R$ 1,00
+5. Moedas de R$ 0,50
+6. Moedas de R$ 1,00
 
 #
 
